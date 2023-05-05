@@ -1,0 +1,35 @@
+/**{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: bolt-border-box;
+
+}*/
+table,div{
+    border: solid 2px;
+    border-color: gray;
+    width: 100px;
+    background-color: gray;
+}
+button{
+    size: 1px;
+    width: 30px;
+    height: 33px;
+    background-color: lightgray;
+}
+.screen{
+    
+    border-radius: 0px;
+    border: 10;
+    background-color: lightgreen;
+    width: 96px;
+    padding-top: 20px;
+}
+.myDiv{
+
+    border-radius: 0px;
+    size: 10px;
+    border: 2px;
+    text-align: center;
+   
+}
